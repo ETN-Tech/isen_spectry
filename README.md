@@ -2,7 +2,7 @@ Repo initial : https://github.com/Thiebosh/M2_contratpro_5
 
 # M2_contratpro_5
 
-Ce projet a été conceptualisé puis réalisé de septembre 2021 à mai 2022 dans le cadre de la 5e année d'école d'ingénieurs informatique ISEN LILLE par Thibaut Juzeau, Antoine Asset, Etienne Schelfout, Benjamin Grosbety, Youssef Houra et Delano Koyouo.
+Ce projet a été conceptualisé puis réalisé de septembre 2021 à mai 2022 dans le cadre de la 5e année d'école d'ingénieurs informatique ISEN LILLE par Thibaut Juzeau, Antoine Asset, Etienne Schelfhout, Benjamin Grosbety, Youssef Houra et Delano Koyouo.
 
 <hr>
 
